@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eval</folder>
+	<filename>left001526.png</filename>
+	<path>/home/neo/Desktop/datat/eval/left001526.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2208</width>
+		<height>1242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>986</xmin>
+			<ymin>246</ymin>
+			<xmax>1092</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

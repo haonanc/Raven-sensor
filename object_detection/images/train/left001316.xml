@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>left001316.png</filename>
+	<path>/home/neo/Desktop/datat/train/left001316.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2208</width>
+		<height>1242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2039</xmin>
+			<ymin>803</ymin>
+			<xmax>2208</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+</annotation>
